@@ -154,7 +154,7 @@ Once the installation is finished, you can run the following command to confirm 
 ### **Create the root web directory for your_domain as follows**
 
 
-  1_ Create the directory for projectlamp using ‘mkdir’ command as follows:
+  1_ Create the directory for projectlemp using ‘mkdir’ command as follows:
 
 `sudo mkdir /var/www/projectLEMP`
 
@@ -365,5 +365,7 @@ Access this page in a web browser
 [Windows VS-code Git and windows terminal installation-part1](https://www.youtube.com/watch?v=R-qcpehB5HY&t=0s)
 
 [Windows VS-code Git and windows terminal installation-part2](https://www.youtube.com/watch?v=jsNIlK5s6pI)
+
+[Learn to code](https://www.w3schools.com/)
 
 [Back to the top](#web-stack-implementation-lemp-stack-in-aws)
